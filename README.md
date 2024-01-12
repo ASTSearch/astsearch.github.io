@@ -1,8 +1,8 @@
-# Woogle - Google Clone
+# ASTSearch - Woogle fork
 
-Live Demo [woogoogle.netlify.com](https://woogoogle.netlify.app/)
+Live demo: <https://astsearch.github.io/build/index.html>
 
-## Steps to create your search engine:
+## Setup
 
 1. Go to https://cse.google.com/cse/create/new and write www.google.com in Sites to search .
 2. Under Edit search engine option, click Setup.
@@ -10,14 +10,14 @@ Live Demo [woogoogle.netlify.com](https://woogoogle.netlify.app/)
 4. Click on Copy to clipboard in the Search engine ID.
 5. Paste the ID in CONTEXT_KEY in useGoogleSearch.js
 
-## Steps to get Google Custom Search API:
+## API setup
 
 1. Go to https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key
 2. Click on Get a Key button.
 3. Select existing project or create a new project and press next.
 4. Copy your API_KEY and paste in keys.js
 
-# Screenshots
+# Screenshots (outdated)
 
 ## Homepage
 ![Homepage](https://github.com/Wilson0406/google-clone/blob/main/woogleHome.png)
